@@ -20,7 +20,7 @@ sub grab_numbers {
     while(<$fh>) {
         chomp;
         $_ =~ s/[^0-9]//g;
-         push(@numbers, substr($_, 0, 1) . substr($_, -1, 1));
+        push(@numbers, substr($_, 0, 1) . substr($_, -1, 1));
         
     }
     return(@numbers);
