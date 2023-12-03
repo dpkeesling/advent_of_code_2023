@@ -1,1 +1,3 @@
-# This is a repo for my advent of code 2023 solutions. All written in Perl. I have never used perl before, so a lot of the solutions may not necessarily follow best practice. However, the point of advent of code is to find the solution as quick as possible, and not necessarily how pretty the code is.
+# Advent of Code 2023 solutions. 
+## I started writing these in Perl. I normally like to give my self an extra challenge with advent of code, so I chose a language I have never worked with before. However, I quickly learned that perl isn't exactly the best suited language for this challenge.
+### So for all days going forward, I'm swapping to Python.
